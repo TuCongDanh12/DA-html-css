@@ -1,0 +1,26 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .navbar-brand img{
+    width: 120px;
+  }
+  .navbar .navbar-expand-lg .navbar-light .bg-light .fixed-top{
+    margin-bottom: 30px;
+  }
+
+  .row{
+    margin-top: 50px !important;
+    margin: 30px;
+  }
+  .main-box .clearfix{
+    width: 880px;
+  }
+ .contai{
+    font-size: 15px;
+ }

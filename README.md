@@ -1,1 +1,1 @@
-long ăn cứt
+read cc
